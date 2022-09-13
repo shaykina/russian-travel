@@ -17,7 +17,6 @@
   .footer {
     flex-direction: column;
     margin-left: 16px;
-    min-height: 398px;
     padding-top: 64px;
   }
 }
