@@ -29,7 +29,5 @@
   .cover {
     min-width: 320px;
     min-height: 200px;
-    max-height: 480px;
-    background-size: cover;
   }
 }
